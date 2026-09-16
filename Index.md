@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Replace Elements with Greatest Element on Right Side](./LeetCode/Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) - *Easy*
 - [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) - *Easy*
 - [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) - *Easy*
 - [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) - *Easy*
