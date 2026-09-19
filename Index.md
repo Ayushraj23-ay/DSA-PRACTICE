@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) - *Easy*
 - [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
 - [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) - *Medium*
 - [Replace Elements with Greatest Element on Right Side](./LeetCode/Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) - *Easy*
