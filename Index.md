@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
 - [Count Odd Numbers in an Interval Range](./LeetCode/Easy/Count%20Odd%20Numbers%20in%20an%20Interval%20Range) - *Easy*
 - [Happy Number](./LeetCode/Easy/Happy%20Number) - *Easy*
 - [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) - *Easy*
