@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Happy Number](./LeetCode/Easy/Happy%20Number) - *Easy*
 - [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) - *Easy*
 - [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) - *Easy*
 - [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) - *Easy*
