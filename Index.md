@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Factorial Trailing Zeroes](./LeetCode/Medium/Factorial%20Trailing%20Zeroes) - *Medium*
 - [N-th Tribonacci Number](./LeetCode/Easy/N-th%20Tribonacci%20Number) - *Easy*
 - [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
 - [Count Odd Numbers in an Interval Range](./LeetCode/Easy/Count%20Odd%20Numbers%20in%20an%20Interval%20Range) - *Easy*
