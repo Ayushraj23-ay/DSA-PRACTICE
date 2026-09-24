@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Convert Binary Number in a Linked List to Integer](./LeetCode/Easy/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) - *Easy*
 - [Factorial Trailing Zeroes](./LeetCode/Medium/Factorial%20Trailing%20Zeroes) - *Medium*
 - [N-th Tribonacci Number](./LeetCode/Easy/N-th%20Tribonacci%20Number) - *Easy*
 - [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
