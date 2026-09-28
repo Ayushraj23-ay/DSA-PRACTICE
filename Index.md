@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) - *Easy*
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 - [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) - *Medium*
 - [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) - *Easy*
