@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Power of Four](./LeetCode/Easy/Power%20of%20Four) - *Easy*
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 - [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) - *Easy*
