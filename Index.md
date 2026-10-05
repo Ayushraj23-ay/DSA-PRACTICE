@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) - *Medium*
 - [Power of Four](./LeetCode/Easy/Power%20of%20Four) - *Easy*
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 - [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
