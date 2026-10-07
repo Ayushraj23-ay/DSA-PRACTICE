@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Duplicate Zeros](./LeetCode/Easy/Duplicate%20Zeros) - *Easy*
 - [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) - *Easy*
 - [Reorder List](./LeetCode/Medium/Reorder%20List) - *Medium*
 - [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) - *Easy*
