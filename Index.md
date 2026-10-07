@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reorder List](./LeetCode/Medium/Reorder%20List) - *Medium*
 - [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) - *Easy*
 - [Partition Array According to Given Pivot](./LeetCode/Medium/Partition%20Array%20According%20to%20Given%20Pivot) - *Medium*
 - [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
