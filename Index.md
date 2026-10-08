@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Find the Difference of Two Arrays](./LeetCode/Easy/Find%20the%20Difference%20of%20Two%20Arrays) - *Easy*
 - [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) - *Easy*
 - [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) - *Easy*
 - [Duplicate Zeros](./LeetCode/Easy/Duplicate%20Zeros) - *Easy*
