@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Ransom Note](./LeetCode/Easy/Ransom%20Note) - *Easy*
 - [Boats to Save People](./LeetCode/Medium/Boats%20to%20Save%20People) - *Medium*
 - [Set Mismatch](./LeetCode/Easy/Set%20Mismatch) - *Easy*
 - [Unique Number of Occurrences](./LeetCode/Easy/Unique%20Number%20of%20Occurrences) - *Easy*
