@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) - *Easy*
 - [Sum of Unique Elements](./LeetCode/Easy/Sum%20of%20Unique%20Elements) - *Easy*
 - [Ransom Note](./LeetCode/Easy/Ransom%20Note) - *Easy*
 - [Boats to Save People](./LeetCode/Medium/Boats%20to%20Save%20People) - *Medium*
