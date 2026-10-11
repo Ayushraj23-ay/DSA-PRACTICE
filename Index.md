@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Odd Even Linked List](./LeetCode/Medium/Odd%20Even%20Linked%20List) - *Medium*
 - [Count Primes](./LeetCode/Medium/Count%20Primes) - *Medium*
 - [Check if the Sentence Is Pangram](./LeetCode/Easy/Check%20if%20the%20Sentence%20Is%20Pangram) - *Easy*
 - [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) - *Easy*
