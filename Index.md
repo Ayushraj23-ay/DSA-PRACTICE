@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sum of Squares of Special Elements](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements) - *Easy*
 - [Odd Even Linked List](./LeetCode/Medium/Odd%20Even%20Linked%20List) - *Medium*
 - [Count Primes](./LeetCode/Medium/Count%20Primes) - *Medium*
 - [Check if the Sentence Is Pangram](./LeetCode/Easy/Check%20if%20the%20Sentence%20Is%20Pangram) - *Easy*
