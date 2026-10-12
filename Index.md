@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) - *Medium*
 - [Sum of Squares of Special Elements](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements) - *Easy*
 - [Odd Even Linked List](./LeetCode/Medium/Odd%20Even%20Linked%20List) - *Medium*
 - [Count Primes](./LeetCode/Medium/Count%20Primes) - *Medium*
