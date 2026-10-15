@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) - *Medium*
 - [Minimum Impossible OR](./LeetCode/Medium/Minimum%20Impossible%20OR) - *Medium*
 - [Minimum Operations to Equalize Array](./LeetCode/Easy/Minimum%20Operations%20to%20Equalize%20Array) - *Easy*
 - [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) - *Hard*
