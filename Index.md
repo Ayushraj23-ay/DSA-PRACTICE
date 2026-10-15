@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Rotate List](./LeetCode/Medium/Rotate%20List) - *Medium*
 - [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) - *Medium*
 - [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) - *Medium*
 - [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
