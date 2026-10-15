@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Minimum Operations to Equalize Array](./LeetCode/Easy/Minimum%20Operations%20to%20Equalize%20Array) - *Easy*
 - [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) - *Hard*
 - [Height Checker](./LeetCode/Easy/Height%20Checker) - *Easy*
 - [Subarrays Distinct Element Sum of Squares I](./LeetCode/Easy/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I) - *Easy*
