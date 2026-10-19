@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) - *Easy*
 - [Build Array from Permutation](./LeetCode/Easy/Build%20Array%20from%20Permutation) - *Easy*
 - [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) - *Medium*
 - [Minimum Impossible OR](./LeetCode/Medium/Minimum%20Impossible%20OR) - *Medium*
