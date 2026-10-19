@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sort List](./LeetCode/Medium/Sort%20List) - *Medium*
 - [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) - *Easy*
 - [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) - *Easy*
 - [Build Array from Permutation](./LeetCode/Easy/Build%20Array%20from%20Permutation) - *Easy*
