@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) - *Medium*
 - [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) - *Medium*
 - [Largest Odd Number in String](./LeetCode/Easy/Largest%20Odd%20Number%20in%20String) - *Easy*
 - [Swapping Nodes in a Linked List](./LeetCode/Medium/Swapping%20Nodes%20in%20a%20Linked%20List) - *Medium*
