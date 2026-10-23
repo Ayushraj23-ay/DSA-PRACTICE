@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) - *Medium*
 - [Largest Odd Number in String](./LeetCode/Easy/Largest%20Odd%20Number%20in%20String) - *Easy*
 - [Swapping Nodes in a Linked List](./LeetCode/Medium/Swapping%20Nodes%20in%20a%20Linked%20List) - *Medium*
 - [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) - *Easy*
