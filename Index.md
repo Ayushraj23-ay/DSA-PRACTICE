@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) - *Easy*
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 - [Largest Perimeter Triangle](./LeetCode/Easy/Largest%20Perimeter%20Triangle) - *Easy*
 - [Maximum Difference Between Increasing Elements](./LeetCode/Easy/Maximum%20Difference%20Between%20Increasing%20Elements) - *Easy*
