@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Largest Perimeter Triangle](./LeetCode/Easy/Largest%20Perimeter%20Triangle) - *Easy*
 - [Maximum Difference Between Increasing Elements](./LeetCode/Easy/Maximum%20Difference%20Between%20Increasing%20Elements) - *Easy*
 - [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) - *Medium*
 - [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) - *Medium*
