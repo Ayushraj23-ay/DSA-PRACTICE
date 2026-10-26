@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Make Two Arrays Equal by Reversing Subarrays](./LeetCode/Easy/Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays) - *Easy*
 - [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) - *Easy*
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 - [Largest Perimeter Triangle](./LeetCode/Easy/Largest%20Perimeter%20Triangle) - *Easy*
