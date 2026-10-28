@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sort Array by Increasing Frequency](./LeetCode/Easy/Sort%20Array%20by%20Increasing%20Frequency) - *Easy*
 - [Sort the People](./LeetCode/Easy/Sort%20the%20People) - *Easy*
 - [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
 - [Make Two Arrays Equal by Reversing Subarrays](./LeetCode/Easy/Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays) - *Easy*
