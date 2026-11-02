@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Rank Transform of an Array](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array) - *Easy*
 - [Minimum Sum of Four Digit Number After Splitting Digits](./LeetCode/Easy/Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits) - *Easy*
 - [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) - *Medium*
