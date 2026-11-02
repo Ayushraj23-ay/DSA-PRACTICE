@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) - *Medium*
 - [Minimum Moves to Equal Array Elements](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements) - *Medium*
 - [Sort Array by Increasing Frequency](./LeetCode/Easy/Sort%20Array%20by%20Increasing%20Frequency) - *Easy*
