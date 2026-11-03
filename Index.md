@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [How Many Numbers Are Smaller Than the Current Number](./LeetCode/Easy/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number) - *Easy*
 - [Rank Transform of an Array](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array) - *Easy*
 - [Minimum Sum of Four Digit Number After Splitting Digits](./LeetCode/Easy/Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits) - *Easy*
 - [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
