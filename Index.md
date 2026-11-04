@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Count the Digits That Divide a Number](./LeetCode/Easy/Count%20the%20Digits%20That%20Divide%20a%20Number) - *Easy*
 - [Maximum Gap](./LeetCode/Medium/Maximum%20Gap) - *Medium*
 - [Minimize Maximum Pair Sum in Array](./LeetCode/Medium/Minimize%20Maximum%20Pair%20Sum%20in%20Array) - *Medium*
 - [How Many Numbers Are Smaller Than the Current Number](./LeetCode/Easy/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number) - *Easy*
