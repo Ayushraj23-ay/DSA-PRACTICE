@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Count Total Number of Colored Cells](./LeetCode/Medium/Count%20Total%20Number%20of%20Colored%20Cells) - *Medium*
 - [Count the Digits That Divide a Number](./LeetCode/Easy/Count%20the%20Digits%20That%20Divide%20a%20Number) - *Easy*
 - [Maximum Gap](./LeetCode/Medium/Maximum%20Gap) - *Medium*
 - [Minimize Maximum Pair Sum in Array](./LeetCode/Medium/Minimize%20Maximum%20Pair%20Sum%20in%20Array) - *Medium*
