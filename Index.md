@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Minimum Cost to Acquire Required Items](./LeetCode/Medium/Minimum%20Cost%20to%20Acquire%20Required%20Items) - *Medium*
 - [Q1. Count Valid Substrings I](./LeetCode/Medium/Q1%20Count%20Valid%20Substrings%20I) - *Medium*
 - [Count Total Number of Colored Cells](./LeetCode/Medium/Count%20Total%20Number%20of%20Colored%20Cells) - *Medium*
 - [Count the Digits That Divide a Number](./LeetCode/Easy/Count%20the%20Digits%20That%20Divide%20a%20Number) - *Easy*
