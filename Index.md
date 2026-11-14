@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Minimum Positive Sum Subarray](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray) - *Easy*
 - [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) - *Easy*
 - [Smallest Range II](./LeetCode/Medium/Smallest%20Range%20II) - *Medium*
 - [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) - *Medium*
